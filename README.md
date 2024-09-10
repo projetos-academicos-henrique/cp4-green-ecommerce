@@ -38,10 +38,4 @@ EcoNatura é uma loja online dedicada à venda de produtos sustentáveis e natur
 4. Pedro Gutierre
 5. William Weile
 
-## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
