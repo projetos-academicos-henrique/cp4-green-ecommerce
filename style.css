@@ -34,6 +34,12 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0)!important;
+}
+
+
+
 .btn-outline-primary:active {
     background-color: #253326 !important;
     border-color: #253326 !important;
@@ -42,6 +48,7 @@ body {
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 .bg-primary {
@@ -92,7 +99,8 @@ a{
     aspect-ratio: 16/9;
     width: 100%;
     object-fit: cover;
-    filter: brightness(0.8);
+
+    filter: brightness(0.5);
 }
 
 .carousel {
